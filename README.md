@@ -1,3 +1,13 @@
-Typing ./vendor/bin/phpunit ./tests/* in a terminal should return all tests as valid
+# Running PHPUnit Tests
 
-.\vendor\bin\phpunit .\tests\* for Windows Powershell / CMD
+To run all tests in this project:
+
+### Linux / macOS
+```bash
+./vendor/bin/phpunit ./tests/*
+```
+
+### Powershell / CMD
+```powershell
+.\vendor\bin\phpunit .\tests\*
+``
