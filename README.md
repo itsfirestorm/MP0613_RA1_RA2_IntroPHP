@@ -10,4 +10,4 @@ To run all tests in this project:
 ### Powershell / CMD
 ```powershell
 .\vendor\bin\phpunit .\tests\*
-``
+```
